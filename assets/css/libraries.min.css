@@ -29,7 +29,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-Thin.ttf' );
+        url( '../webfonts/montserrat/Montserrat-Thin.ttf' );
     font-style: normal; 
     font-weight: 100;
     font-display: block;
@@ -39,7 +39,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-ThinItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-ThinItalic.ttf' );
     font-style: italic; 
     font-weight: 100;
     font-display: block;
@@ -50,7 +50,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-ExtraLight.ttf' );
+        url( '../webfonts/montserrat/Montserrat-ExtraLight.ttf' );
     font-style: normal; 
     font-weight: 200;
     font-display: block;
@@ -61,7 +61,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-ExtraLightItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-ExtraLightItalic.ttf' );
     font-style: italic; 
     font-weight: 200;
     font-display: block;
@@ -72,7 +72,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-Light.ttf' );
+        url( '../webfonts/montserrat/Montserrat-Light.ttf' );
     font-style: normal; 
     font-weight: 300;
     font-display: block;
@@ -82,7 +82,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-LightItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-LightItalic.ttf' );
     font-style: italic; 
     font-weight: 300;
     font-display: block;
@@ -92,7 +92,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-Regular.ttf' );
+        url( '../webfonts/montserrat/Montserrat-Regular.ttf' );
     font-style: normal;
     font-weight: 400;
     font-display: block;
@@ -103,7 +103,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-Medium.ttf' );
+        url( '../webfonts/montserrat/Montserrat-Medium.ttf' );
     font-style: normal; 
     font-weight: 500;
     font-display: block;
@@ -113,7 +113,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-MediumItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-MediumItalic.ttf' );
     font-style: italic; 
     font-weight: 500;
     font-display: block;
@@ -124,7 +124,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-SemiBold.ttf' );
+        url( '../webfonts/montserrat/Montserrat-SemiBold.ttf' );
     font-style: normal; 
     font-weight: 600;
     font-display: block;
@@ -134,7 +134,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-SemiBoldItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-SemiBoldItalic.ttf' );
     font-style: italic; 
     font-weight: 600;
     font-display: block;
@@ -144,7 +144,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-Bold.ttf' );
+        url( '../webfonts/montserrat/Montserrat-Bold.ttf' );
     font-style: normal; 
     font-weight: 700;
     font-display: block;
@@ -154,7 +154,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-BoldItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-BoldItalic.ttf' );
     font-style: italic; 
     font-weight: 700;
     font-display: block;
@@ -164,7 +164,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-ExtraBold.ttf' );
+        url( '../webfonts/montserrat/Montserrat-ExtraBold.ttf' );
     font-style: normal; 
     font-weight: 800;
     font-display: block;
@@ -174,7 +174,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-ExtraBoldItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-ExtraBoldItalic.ttf' );
     font-style: italic; 
     font-weight: 800;
     font-display: block;
@@ -184,7 +184,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-Black.ttf' );
+        url( '../webfonts/montserrat/Montserrat-Black.ttf' );
     font-style: normal; 
     font-weight: 900;
     font-display: block;
@@ -194,7 +194,7 @@
 {
     font-family: Montserrat;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/montserrat/Montserrat-BlackItalic.ttf' );
+        url( '../webfonts/montserrat/Montserrat-BlackItalic.ttf' );
     font-style: italic; 
     font-weight: 900;
     font-display: block;
@@ -204,7 +204,7 @@
 {
     font-family: Pacifico;
     src: 
-        url( 'https://blush.dctprime.com/assets/webfonts/pacifico/Pacifico-Regular.ttf' );
+        url( '../webfonts/pacifico/Pacifico-Regular.ttf' );
     font-style: normal; 
     font-weight: 400;
     font-display: block;
